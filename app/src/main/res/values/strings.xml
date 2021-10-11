@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">KdvHesaplama</string>
+
+    <string-array name="liste">
+        <item>Gıda %8</item>
+        <item>Eğlence %8</item>
+        <item>Otomativ %150 </item>
+        <item>Tütün Ürünleri %8</item>
+        <item>Alkol Ürünleri %60</item>
+    </string-array>
+</resources>
